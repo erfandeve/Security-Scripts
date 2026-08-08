@@ -78,5 +78,4 @@ PATTERNS = {
 }
 
 # All rights reserved
-# Created by the company DEVART
 # Programmed by Raminhimself
